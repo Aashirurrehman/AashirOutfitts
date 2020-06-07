@@ -1,0 +1,100 @@
+
+.navbar {
+    background-color: rgb(160, 16, 16) !important;
+    
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+    margin-right: 20px !important;
+}
+
+.fa-credit-card-alt,.fa-search{
+    font-size: 50 !important;
+    color: white !important;
+    margin-top: 11px !important;
+    margin-right: 20px !important;
+} 
+
+.heading {
+    color: rgb(160, 16, 16) !important;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+.heading > h2 {
+    text-shadow: 2px 2px 3px;
+}
+
+.newArrivals, .luxury{
+    margin-top: 50px;
+}
+
+.card {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.card-title {
+    font-size: 15px;
+
+}
+
+.card-text {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn-primary {
+    background-color:  rgb(160, 16, 16) !important;
+    width: 100%;
+}
+
+
+
+.fa-arrow-up {
+    color: white;
+    font-size: 40px !important;
+    margin-bottom: 60px;
+    margin-left: 80%;
+}
+
+footer{
+    background-color:  rgb(160, 16, 16) !important;
+    text-align: center;
+    margin-top: 30px;
+    
+
+   
+}
+
+h4 {
+    margin-top: 40px;
+    color: white;  
+}
+
+.heading {
+    margin-top: 30px;
+}
+
+
+.card-imgabout {
+    width: 80%;
+    margin-top: 20%;
+}
+
+.card-textabout {
+    margin-left: 02% ;
+}
+
+.card-titleabout {
+    margin-left: 30%;
+    color: rgb(160, 16, 16) !important;
+}
+
+@media only screen and (max-width: 1000px) {
+    .card-textabout,.card-titleabout
+    }
+  }
